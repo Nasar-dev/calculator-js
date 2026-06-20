@@ -1,5 +1,7 @@
 # Simple Calculator App
 
+![Calculator App Banner](./Calculator-banner.png)
+
 This is a basic calculator project built using HTML, CSS, and JavaScript.
 
 ## Features
