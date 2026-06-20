@@ -15,4 +15,7 @@ This is a basic calculator project built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Purpose
-This project was created for learning DOM manipulation and JavaScript logic.
+This project was created for learning DOM manipulation and JavaScript logic
+
+## 🔗 Live Demo
+https://nasar-dev.github.io/calculator-js/
